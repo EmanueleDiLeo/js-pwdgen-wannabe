@@ -10,7 +10,7 @@ Buon JS!
 
 
 ### Ordine azioni
-1. salvare le variabili chieste all'utente all'utente il nome, cognome, colore preferito
+1. salvare le variabili chieste all'utente all'utente il nome, cognome, colore preferito e il numero
 1. stampare nella pagina la password formata da nome,cognome,colore preferito e 23
 
 
