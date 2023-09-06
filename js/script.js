@@ -1,6 +1,6 @@
-const name = prompt('Scrivi il tuo nome').trim();
-const surname = prompt('Scrivi il tuo cognome').trim();
-const favoriteColor = prompt('Scrivi il tuo colore preferito').trim();
+const name = prompt('Scrivi il tuo nome').replaceAll(" ","");
+const surname = prompt('Scrivi il tuo cognome').replaceAll(" ","");
+const favoriteColor = prompt('Scrivi il tuo colore preferito').replaceAll(" ","");
 const number = '23';
 
 const message = name + surname + favoriteColor + number;
